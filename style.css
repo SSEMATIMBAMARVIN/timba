@@ -71,6 +71,9 @@ table,tr,td,th{
     margin: 20px;
     padding: 8px;
 }
+a:hover{
+    background-color:plum;
+}
 
 
 
